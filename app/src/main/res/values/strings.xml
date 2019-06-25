@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Timesheet</string>
+
+
+    <!-- Login/Register -->
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account_yet">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="agree_tac">I agree to the</string>
+    <string name="tac">Terms and Conditions</string>
+    <string name="has_account">Already have an account?</string>
+
+
+    <!-- Submission form -->
+    <string name="submission_form">Submission form</string>
+    <string name="entry_type">Entry type</string>
+    <string-array name="entry_type">
+        <item>Work day</item>
+        <item>Holiday</item>
+        <item>Off sick</item>
+        <item>Other</item>
+    </string-array>
+    <string name="date">Date</string>
+    <string name="null_date">dd/mm/yyyy</string>
+    <string name="edit_date">%1$02d/%2$02d/%3$d</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="null_time">--:--</string>
+    <string name="edit_time">%1$02d:%2$02d</string>
+    <string name="job_name">Job name</string>
+    <string name="expenses">Expenses</string>
+    <string name="attach_a_file">Attach a file to your submission form</string>
+    <string name="selected_file">Selected file: %1$s</string>
+    <string name="file_size">Size: %1$.2f%2$s</string>
+    <string name="change_file">Change file</string>
+    <string name="submit">Submit</string>
+
+
+
+
+
+</resources>
