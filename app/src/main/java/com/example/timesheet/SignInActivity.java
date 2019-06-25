@@ -15,6 +15,7 @@ public class SignInActivity extends AppCompatActivity {
         setContentView(R.layout.activity_sign_in);
     }
 
+
     public void SignIn(View v){
         Intent intent = new Intent(SignInActivity.this, TimesheetSubmissionFormActivity.class);
         startActivity(intent);
